@@ -3,3 +3,9 @@
 
 # Ignorar la carpeta venv (entorno virtual)
 venv/
+
+.mp3
+
+.wav
+
+.npy
