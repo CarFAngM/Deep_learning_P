@@ -1,0 +1,345 @@
+[
+  {
+    "id": 0,
+    "original": "A Travellers Christmas - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0000.wav",
+    "mel": "0000.npy",
+    "duration": 182.10798185941044
+  },
+  {
+    "id": 1,
+    "original": "After the game - Ymusica.mp3",
+    "audio": "0001.wav",
+    "mel": "0001.npy",
+    "duration": 404.210566893424
+  },
+  {
+    "id": 2,
+    "original": "Ambient Relax Music (WAV) - Art Media.mp3",
+    "audio": "0002.wav",
+    "mel": "0002.npy",
+    "duration": 130.56
+  },
+  {
+    "id": 3,
+    "original": "An Old Time Christmas - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0003.wav",
+    "mel": "0003.npy",
+    "duration": 197.86145124716552
+  },
+  {
+    "id": 4,
+    "original": "Angels and tears - Mika\u00ebl Parantho\u00ebn.mp3",
+    "audio": "0004.wav",
+    "mel": "0004.npy",
+    "duration": 218.52
+  },
+  {
+    "id": 5,
+    "original": "Animals - StimiBeats.mp3",
+    "audio": "0005.wav",
+    "mel": "0005.npy",
+    "duration": 227.70680272108842
+  },
+  {
+    "id": 6,
+    "original": "any moment - jiseau.mp3",
+    "audio": "0006.wav",
+    "mel": "0006.npy",
+    "duration": 162.90068027210884
+  },
+  {
+    "id": 7,
+    "original": "Beauty Of The Landscape - CrowHat.mp3",
+    "audio": "0007.wav",
+    "mel": "0007.npy",
+    "duration": 139.8
+  },
+  {
+    "id": 8,
+    "original": "Christmas Card - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0008.wav",
+    "mel": "0008.npy",
+    "duration": 261.6877551020408
+  },
+  {
+    "id": 9,
+    "original": "Christmas Day Is Ours (Instrumental) - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0009.wav",
+    "mel": "0009.npy",
+    "duration": 85.73496598639456
+  },
+  {
+    "id": 10,
+    "original": "Christmas Past - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0010.wav",
+    "mel": "0010.npy",
+    "duration": 226.0408163265306
+  },
+  {
+    "id": 11,
+    "original": "Cold Expectations - StimiBeats.mp3",
+    "audio": "0011.wav",
+    "mel": "0011.npy",
+    "duration": 196.07383219954647
+  },
+  {
+    "id": 12,
+    "original": "Convergence - 1st Contact.mp3",
+    "audio": "0012.wav",
+    "mel": "0012.npy",
+    "duration": 215.0
+  },
+  {
+    "id": 13,
+    "original": "Cooling Dream - StimiBeats.mp3",
+    "audio": "0013.wav",
+    "mel": "0013.npy",
+    "duration": 219.7033560090703
+  },
+  {
+    "id": 14,
+    "original": "Cosmic Peace - Marc Corominas Pujad\u00f3.mp3",
+    "audio": "0014.wav",
+    "mel": "0014.npy",
+    "duration": 180.09102040816327
+  },
+  {
+    "id": 15,
+    "original": "Cosmic Peace NoArp - Marc Corominas Pujad\u00f3.mp3",
+    "audio": "0015.wav",
+    "mel": "0015.npy",
+    "duration": 180.06498866213153
+  },
+  {
+    "id": 16,
+    "original": "Distant Breath - Mike Devious.mp3",
+    "audio": "0016.wav",
+    "mel": "0016.npy",
+    "duration": 139.0
+  },
+  {
+    "id": 17,
+    "original": "Documentary - Roman Spivak.mp3",
+    "audio": "0017.wav",
+    "mel": "0017.npy",
+    "duration": 148.53573696145125
+  },
+  {
+    "id": 18,
+    "original": "Evening Sky - lesfm.mp3",
+    "audio": "0018.wav",
+    "mel": "0018.npy",
+    "duration": 186.12498866213153
+  },
+  {
+    "id": 19,
+    "original": "Frozen Kisses - StimiBeats.mp3",
+    "audio": "0019.wav",
+    "mel": "0019.npy",
+    "duration": 226.58081632653062
+  },
+  {
+    "id": 20,
+    "original": "Hidden melody - patriceephony sequences.mp3",
+    "audio": "0020.wav",
+    "mel": "0020.npy",
+    "duration": 183.4146485260771
+  },
+  {
+    "id": 21,
+    "original": "Illusion Feel - Acoustic Guitar by William King.mp3",
+    "audio": "0021.wav",
+    "mel": "0021.npy",
+    "duration": 137.82049886621314
+  },
+  {
+    "id": 22,
+    "original": "In The Bleak Mid-Winter - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0022.wav",
+    "mel": "0022.npy",
+    "duration": 227.9910657596372
+  },
+  {
+    "id": 23,
+    "original": "Lounge Background - AlexGrohl.mp3",
+    "audio": "0023.wav",
+    "mel": "0023.npy",
+    "duration": 125.34721088435374
+  },
+  {
+    "id": 24,
+    "original": "Maps - StimiBeats.mp3",
+    "audio": "0024.wav",
+    "mel": "0024.npy",
+    "duration": 207.22349206349207
+  },
+  {
+    "id": 25,
+    "original": "Meditation - Loop - CorporateSounds.mp3",
+    "audio": "0025.wav",
+    "mel": "0025.npy",
+    "duration": 99.74027210884354
+  },
+  {
+    "id": 26,
+    "original": "Meditation Relax Yoga - Alex Saym.mp3",
+    "audio": "0026.wav",
+    "mel": "0026.npy",
+    "duration": 290.8235827664399
+  },
+  {
+    "id": 27,
+    "original": "Memory - StimiBeats.mp3",
+    "audio": "0027.wav",
+    "mel": "0027.npy",
+    "duration": 229.0581859410431
+  },
+  {
+    "id": 28,
+    "original": "Minimal Ambient Electronic - The_Mountain.mp3",
+    "audio": "0028.wav",
+    "mel": "0028.npy",
+    "duration": 131.52344671201814
+  },
+  {
+    "id": 29,
+    "original": "Nature and People - NOIRESOR.mp3",
+    "audio": "0029.wav",
+    "mel": "0029.npy",
+    "duration": 252.0
+  },
+  {
+    "id": 30,
+    "original": "Old Record - NOIRESOR.mp3",
+    "audio": "0030.wav",
+    "mel": "0030.npy",
+    "duration": 312.8972335600907
+  },
+  {
+    "id": 31,
+    "original": "O\u00f9 se cachent - Tom La Meche.mp3",
+    "audio": "0031.wav",
+    "mel": "0031.npy",
+    "duration": 269.1930612244898
+  },
+  {
+    "id": 32,
+    "original": "Peaceful Calm Relaxation - Alexis Music.mp3",
+    "audio": "0032.wav",
+    "mel": "0032.npy",
+    "duration": 316.8
+  },
+  {
+    "id": 33,
+    "original": "Play Effect - StimiBeats.mp3",
+    "audio": "0033.wav",
+    "mel": "0033.npy",
+    "duration": 160.11596371882086
+  },
+  {
+    "id": 34,
+    "original": "Rhodes - Mark Dorricott.mp3",
+    "audio": "0034.wav",
+    "mel": "0034.npy",
+    "duration": 206.38625850340136
+  },
+  {
+    "id": 35,
+    "original": "Say It - StimiBeats.mp3",
+    "audio": "0035.wav",
+    "mel": "0035.npy",
+    "duration": 228.97727891156464
+  },
+  {
+    "id": 36,
+    "original": "Shaman - Mark Dorricott.mp3",
+    "audio": "0036.wav",
+    "mel": "0036.npy",
+    "duration": 169.76349206349207
+  },
+  {
+    "id": 37,
+    "original": "Smiles - StimiBeats.mp3",
+    "audio": "0037.wav",
+    "mel": "0037.npy",
+    "duration": 232.2540589569161
+  },
+  {
+    "id": 38,
+    "original": "Soft Autumn Lofi Background - Alex_Valin.mp3",
+    "audio": "0038.wav",
+    "mel": "0038.npy",
+    "duration": 134.67360544217686
+  },
+  {
+    "id": 39,
+    "original": "solitude - Soochrys.mp3",
+    "audio": "0039.wav",
+    "mel": "0039.npy",
+    "duration": 131.06412698412697
+  },
+  {
+    "id": 40,
+    "original": "Star Field - Mark Dorricott.mp3",
+    "audio": "0040.wav",
+    "mel": "0040.npy",
+    "duration": 310.61097505668937
+  },
+  {
+    "id": 41,
+    "original": "The beginning - DUTY OF THE HEARTS.mp3",
+    "audio": "0041.wav",
+    "mel": "0041.npy",
+    "duration": 240.0
+  },
+  {
+    "id": 42,
+    "original": "The Spirit Of Christmas - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0042.wav",
+    "mel": "0042.npy",
+    "duration": 225.90956916099773
+  },
+  {
+    "id": 43,
+    "original": "The Starlight Of A Christmas Night - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0043.wav",
+    "mel": "0043.npy",
+    "duration": 199.55732426303854
+  },
+  {
+    "id": 44,
+    "original": "Travelling By Train - Udo Vismann.mp3",
+    "audio": "0044.wav",
+    "mel": "0044.npy",
+    "duration": 324.2722448979592
+  },
+  {
+    "id": 45,
+    "original": "Vacuum - Serge Quadrado.mp3",
+    "audio": "0045.wav",
+    "mel": "0045.npy",
+    "duration": 390.0604081632653
+  },
+  {
+    "id": 46,
+    "original": "Worried Dreams - StimiBeats.mp3",
+    "audio": "0046.wav",
+    "mel": "0046.npy",
+    "duration": 278.2370068027211
+  },
+  {
+    "id": 47,
+    "original": "Young Heart - StimiBeats.mp3",
+    "audio": "0047.wav",
+    "mel": "0047.npy",
+    "duration": 215.92793650793652
+  },
+  {
+    "id": 48,
+    "original": "Yuletide Minstrels - Phillip Traum and the Moral Sense.mp3",
+    "audio": "0048.wav",
+    "mel": "0048.npy",
+    "duration": 178.8368253968254
+  }
+]
